@@ -23,14 +23,14 @@ CROSS は 2012 年より、エンジニアリングに関するあらゆるこ�
 垣根を超えて学び楽しめる勉強会を開催してきました。
 <br>
 <br>
-今年は年に1度の開催を Tech-Party CROSS というお祭りであるブランドに改め、
+今年からは年に1度の開催を Tech-Party CROSS という名前に改め、
 <br>
 新たに平日定時後に開催される Tech-Study CROSS を継続開催します！
 <br>
-厳選したテーマについて、お馴染みのパネルディスカッション形式での勉強会をお届け致します。
+厳選したテーマについて、お馴染みのパネルディスカッション形式での勉強会をお届けします。
 <br>
 <br>
-**[第1回「クラウドネイティブ自体の落ちないサービスの作り方」は 11/09 (金) 19:30- 開催です！](https://cross-party.connpass.com/)**
+**[第1回「クラウドネイティブ時代の落ちないサービスの作り方」は 11/09 (金) 19:30- 開催です！](https://cross-party.connpass.com/)**
 """
 buttonText = "もっとみる"
 
@@ -59,4 +59,4 @@ link = "https://docs.google.com/forms/d/e/1FAIpQLSc7x0b2zLAvm27xUWocbqiz1etLsia2
 
 [params.contact]
 headline = "SNS で随時情報を発信しています。"
-description = """<a target="_blank" href="https://twitter.com/e_s_cross"><i class="fa fa-twitter"></i></a>"""
+description = """<a target="_blank" href="https://twitter.com/techparty_cross"><i class="fa fa-twitter"></i> @techparty_cross</a>"""
