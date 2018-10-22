@@ -1,0 +1,62 @@
+baseURL = "https://www.cross-party.com/"
+languageCode = "en-us"
+title = "Tech-Party CROSS"
+theme = "hugo-creative-theme"
+
+[params]
+name = "cross"
+description = "desc"
+favicon = ""
+
+[params.navigation]
+brand = "CROSS"
+[params.navigation.links]
+about = "About"
+portfolio = "Pictures"
+
+
+[params.hero]
+slogan = "Tech-Party CROSS"
+subtitle = """
+CROSS は 2012 年より、エンジニアリングに関するあらゆることをテーマに、
+<br>
+垣根を超えて学び楽しめる勉強会を開催してきました。
+<br>
+<br>
+今年は年に1度の開催を Tech-Party CROSS というお祭りであるブランドに改め、
+<br>
+新たに平日定時後に開催される Tech-Study CROSS を継続開催します！
+<br>
+厳選したテーマについて、お馴染みのパネルディスカッション形式での勉強会をお届け致します。
+<br>
+<br>
+**[第1回「クラウドネイティブ自体の落ちないサービスの作り方」は 11/09 (金) 19:30- 開催です！](https://cross-party.connpass.com/)**
+"""
+buttonText = "もっとみる"
+
+[params.about]
+headline = "CROSS は「興味の外側の自分に会いに行く」ことができる勉強会を目指しています"
+description = """
+CROSS は例年、1000人規模で開催されている勉強会です。
+<br>
+CROSS の開催理念として、普段触れていない分野に飛び込むことができる会、いうところがあります。
+<br>
+大きな1つの会場で、気まぐれに専門外のセッションに参加し、未知の分野に刺激を受ける。
+<br>
+エンジニアが垣根を超えて学び、交流できる。そんな勉強会を目指しています。
+"""
+
+[params.portfolio.modal]
+category = "Category"
+
+[params.aside]
+headline    = "一緒に CROSS を作り上げる仲間を募集しています！"
+description = "あなたのエンジニアリングに込める思いを勉強会の場づくりとして実現しませんか？"
+
+[params.aside.button]
+text = "話を聞いてみる (Google Form)"
+link = "https://docs.google.com/forms/d/e/1FAIpQLSc7x0b2zLAvm27xUWocbqiz1etLsia2yoY0q8q7XJ2IxwKMhQ/viewform?usp=sf_link"
+
+[params.contact]
+headline = "SNS で随時情報を発信しています。"
+description = """<a target="_blank" href="https://twitter.com/e_s_cross"><i class="fa fa-twitter"></i></a>"""
